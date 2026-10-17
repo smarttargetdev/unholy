@@ -1,5 +1,5 @@
 {
-  "name": "A Abadia Abandonada: A Freira Maligna",
+  "name": "Profano: A Freira",
   "description": "Jogo multiplayer 3D isométrico de dedução social em uma abadia gótica abandonada com igreja, cemitério e calabouço.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
