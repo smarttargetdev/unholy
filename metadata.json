@@ -1,6 +1,6 @@
 {
   "name": "Profano: A Freira",
-  "description": "Jogo multiplayer 3D isométrico de dedução social em uma abadia gótica abandonada com igreja, cemitério e calabouço.",
+  "description": "Jogo de dedução social ambientado em uma abadia gótica abandonada assolada por um terrível mal onde os clérigos devem completar tarefas para conseguir escapar com vida antes que o mal os encontre, um a um.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
